@@ -24,6 +24,6 @@ Run the demo with `main.tscn`: arrows or WASD to move, 1-2 to switch pattern, R 
 The **Bullet Pattern Designer** adds a visual in-editor-style designer with live preview (stack layers, tweak every
 parameter, see the pattern run), the wave shape, 4 presets, JSON export/import so you load patterns in your game, and
 a longer dodge demo.
-Full tool and free web demo: https://cesarlars.itch.io (Bullet Pattern Designer)
+Full tool: https://cesarlars.itch.io/bullet-pattern-designer · Free web demo: https://cesarlars.itch.io/bullet-pattern-designer-demo
 
 MIT licensed.
